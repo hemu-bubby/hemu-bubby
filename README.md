@@ -28,12 +28,12 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/hemanth-r-1035a62a0" target="_blank">
+  <a href="https://www.linkedin.com/in/hemanth-r-1035a62a0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <a href="discordapp.com/users/789355531084103681" target="_blank">
+  <a href="https://discordapp.com/users/789355531084103681" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="hemanthbubby007@gmail.com" target="_blank">
